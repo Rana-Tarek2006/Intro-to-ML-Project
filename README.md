@@ -9,7 +9,7 @@ This project implements a complete machine learning pipeline for identifying mar
 ### 1. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/market-trend-identification.git
+git clone (https://github.com/Rana-Tarek2006/Intro-to-ML-Project/tree/main)
 cd market-trend-identification
 
 # Install dependencies
